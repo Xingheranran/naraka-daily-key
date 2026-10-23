@@ -31,6 +31,17 @@
   .side .v.empty{color:var(--muted);font-size:15px;font-weight:400}
   .meta{margin-top:14px;color:var(--muted);font-size:12px;display:flex;gap:14px;flex-wrap:wrap}
   .meta a{color:inherit}
+  .tag{display:inline-block;font-size:11px;line-height:1.5;padding:1px 7px;border-radius:999px;
+       margin-left:6px;border:1px solid var(--line);background:var(--chip);color:var(--muted);vertical-align:2px}
+  .tag.ok{color:#0a7d3e;border-color:#bfe6cd;background:#eefaf2}
+  .tag.bad{color:#b00020;border-color:#f3c2c8;background:#fdeef0}
+  .side .t{margin-top:8px;color:var(--muted);font-size:12px}
+  .warn{margin-top:14px;padding:10px 12px;border-radius:10px;background:var(--chip);
+        color:var(--muted);font-size:12px;line-height:1.8}
+  @media (prefers-color-scheme: dark){
+    .tag.ok{color:#5ec98a;border-color:#1f4a33;background:#14261c}
+    .tag.bad{color:#ff8095;border-color:#4a2027;background:#2a161a}
+  }
   .list{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden}
   .row{display:grid;grid-template-columns:110px 1fr 1fr;gap:10px;padding:12px 16px;
        border-top:1px solid var(--line);align-items:center;cursor:pointer}
@@ -87,7 +98,7 @@
 </main>
 
 <script>
-const DATA = {"updated_at": "2026-10-23T20:39:51+08:00", "today": "2026-10-23", "days": [{"date": "2026-10-22", "pc": "今日更新", "mobile": "速通指南", "updated_at": "2026-10-23T20:39:51+08:00"}], "detail": {"2026-10-22": {"date": "2026-10-22", "pc": {"answer": "今日更新", "confidence": 0.783, "source": "https://mp.weixin.qq.com/s/Y569r0b6t1V8xwP7PBzB7g", "title": "今日待办：出席鸿门宴，宛渠游泳健身，晚上听胡桃讲鬼故事", "published_at": "2026-10-22T11:55:45+08:00", "captured_at": "2026-10-23T20:39:47+08:00", "ocr": ["今日金钥匙", "今日更新", "每日金钥匙在次日下午6点前有效", "使用方式：", "点击公众号底部菜单", "福利中心", "每日金钥匙", "输入金钥匙"]}, "mobile": {"answer": "速通指南", "confidence": 0.7624, "source": "https://mp.weixin.qq.com/s/0l9AuwkHfZy8xwFNFR_LtA", "title": "新版本今日上线 | 赴鸿门宴，换新装、拍大片，长剑版鲨齿正式上线！", "published_at": "2026-10-22T12:48:20+08:00", "captured_at": "2026-10-23T20:39:51+08:00", "ocr": ["今日金钥匙", "速通指南", "每日金钥匙在次日下午6点前有效", "使用方式：", "点击公众号底部菜单", "福利中心", "每日金钥匙", "输入金钥匙"]}, "updated_at": "2026-10-23T20:39:51+08:00"}}};
+const DATA = {"updated_at": "2026-10-23T20:39:51+08:00", "current": null, "today": "2026-10-23", "days": [{"date": "2026-10-22", "pc": "今日更新", "mobile": "速通指南", "valid_until": "2026-10-23T18:00:00+08:00", "verified": null, "updated_at": "2026-10-23T20:39:51+08:00"}], "detail": {"2026-10-22": {"date": "2026-10-22", "pc": {"answer": "今日更新", "confidence": 0.783, "source": "https://mp.weixin.qq.com/s/Y569r0b6t1V8xwP7PBzB7g", "title": "今日待办：出席鸿门宴，宛渠游泳健身，晚上听胡桃讲鬼故事", "published_at": "2026-10-22T11:55:45+08:00", "captured_at": "2026-10-23T20:39:47+08:00", "ocr": ["今日金钥匙", "今日更新", "每日金钥匙在次日下午6点前有效", "使用方式：", "点击公众号底部菜单", "福利中心", "每日金钥匙", "输入金钥匙"], "valid_until": "2026-10-23T18:00:00+08:00", "verified": null, "verified_at": "", "verify_note": "已过有效期，未验证"}, "mobile": {"answer": "速通指南", "confidence": 0.7624, "source": "https://mp.weixin.qq.com/s/0l9AuwkHfZy8xwFNFR_LtA", "title": "新版本今日上线 | 赴鸿门宴，换新装、拍大片，长剑版鲨齿正式上线！", "published_at": "2026-10-22T12:48:20+08:00", "captured_at": "2026-10-23T20:39:51+08:00", "ocr": ["今日金钥匙", "速通指南", "每日金钥匙在次日下午6点前有效", "使用方式：", "点击公众号底部菜单", "福利中心", "每日金钥匙", "输入金钥匙"], "valid_until": "2026-10-23T18:00:00+08:00", "verified": null, "verified_at": "", "verify_note": "已过有效期，未验证"}, "updated_at": "2026-10-23T20:39:51+08:00"}}};
 const DETAIL = DATA.detail || {};
 const DAYS = DATA.days || [];
 
@@ -100,24 +111,43 @@ function weekday(d){
   return isNaN(t) ? "" : "周" + w[t.getDay()];
 }
 
+function verifyTag(v){
+  if (v === true) return '<span class="tag ok">已验证</span>';
+  if (v === false) return '<span class="tag bad">失效</span>';
+  return '<span class="tag">未验证</span>';
+}
+
 function renderToday(){
-  const day = DATA.today;
-  const rec = DETAIL[day] || {};
-  const pc = rec.pc || {}, mb = rec.mobile || {};
-  const empty = !(pc.answer || mb.answer);
-  const src = pc.source || mb.source || "";
-  const title = pc.title || mb.title || "";
+  const cur = DATA.current || null;
+  const box = document.getElementById("today");
+  if (!cur || !(cur.pc || cur.mobile)){
+    box.innerHTML = `
+      <div class="date"><span>当前有效答案</span><span>暂无</span></div>
+      <div class="warn">现在没有仍在有效期内的答案。官方推文发布日 D 的答案，有效期到 <b>D+1 日 18:00</b>；
+      接口里的推文链接会晚一天更新，所以每天会自动收录前一天发布的那条。</div>`;
+    return;
+  }
+  const rec = DETAIL[cur.date] || {};
+  const pc = cur.pc || {}, mb = cur.mobile || {};
+  const rpc = rec.pc || {}, rmb = rec.mobile || {};
+  const src = rpc.source || rmb.source || "";
+  const title = rpc.title || rmb.title || "";
+  const vu = (cur.valid_until || "").replace("T", " ").slice(0, 16);
   const stamp = (rec.updated_at || "").slice(11,16);
-  document.getElementById("today").innerHTML = `
-    <div class="date"><span>${esc(day)} ${weekday(day)}</span>
-      <span>${empty ? "今日答案尚未更新" : "抓取于 " + esc(stamp) + "（北京时间）"}</span></div>
+  box.innerHTML = `
+    <div class="date">
+      <span>当前有效答案 · 来源推文 ${esc(cur.date)} ${weekday(cur.date)}</span>
+      <span>${vu ? "有效至 " + esc(vu) : ""}</span></div>
     <div class="sides">
       <div class="side"><div class="k">端游</div>
-        <div class="v ${pc.answer ? "" : "empty"}">${esc(pc.answer || "等待中…")}</div></div>
+        <div class="v ${pc.answer ? "" : "empty"}">${esc(pc.answer || "—")}</div>
+        <div class="t">${verifyTag(pc.verified)}</div></div>
       <div class="side"><div class="k">手游</div>
-        <div class="v ${mb.answer ? "" : "empty"}">${esc(mb.answer || "等待中…")}</div></div>
+        <div class="v ${mb.answer ? "" : "empty"}">${esc(mb.answer || "—")}</div>
+        <div class="t">${verifyTag(mb.verified)}</div></div>
     </div>
-    ${src ? `<div class="meta"><span>来源：<a href="${esc(src)}" target="_blank" rel="noopener">${esc(title || "官方推文")}</a></span></div>` : ""}
+    ${src ? `<div class="meta"><span>来源：<a href="${esc(src)}" target="_blank" rel="noopener">${esc(title || "官方推文")}</a></span>${
+      stamp ? `<span>抓取于 ${esc(stamp)}（北京时间）</span>` : ""}</div>` : ""}
   `;
 }
 
@@ -135,10 +165,12 @@ function renderList(filter){
     const detail = ocr.length
       ? `<div class="ocr" data-date="${esc(d.date)}">OCR 原文：${[...new Set(ocr)].map(t => `<code>${esc(t)}</code>`).join("")}</div>`
       : "";
+    const tag = d.verified === true ? '<span class="tag ok">已验证</span>'
+              : d.verified === false ? '<span class="tag bad">失效</span>' : '';
     return `<div class="row" data-date="${esc(d.date)}">
       <span class="d">${esc(d.date)} <span style="opacity:.7">${weekday(d.date)}</span></span>
       <span class="a ${d.pc ? "" : "empty"}">${esc(d.pc || "—")}</span>
-      <span class="a ${d.mobile ? "" : "empty"}">${esc(d.mobile || "—")}</span>
+      <span class="a ${d.mobile ? "" : "empty"}">${esc(d.mobile || "—")}${tag}</span>
     </div>${detail}`;
   }).join("");
 }
