@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>永劫无间 · 每日金钥匙答案</title>
+<meta name="description" content="每天自动收录永劫无间官方公众号「今日金钥匙」答案，端游 / 手游双端，历史可查。">
+<style>
+  :root{
+    --bg:#f6f7f9; --card:#fff; --text:#1b1f24; --muted:#6b7280;
+    --line:#e5e7eb; --accent:#c8102e; --chip:#f3f4f6;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#0f1115; --card:#171a20; --text:#e8eaed; --muted:#9aa0a6;
+           --line:#262a31; --accent:#ff5a6e; --chip:#20242b; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);
+       font:15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;}
+  main{max-width:720px;margin:0 auto;padding:28px 18px 56px}
+  header h1{margin:0 0 4px;font-size:26px;letter-spacing:.5px}
+  header .sub{margin:0;color:var(--muted);font-size:13px}
+  .today{margin:22px 0 10px;background:var(--card);border:1px solid var(--line);
+         border-radius:14px;padding:20px;box-shadow:0 1px 2px rgba(0,0,0,.04)}
+  .today .date{color:var(--muted);font-size:13px;margin-bottom:14px;display:flex;
+               justify-content:space-between;gap:8px;flex-wrap:wrap}
+  .sides{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  .side{background:var(--chip);border-radius:11px;padding:14px 16px}
+  .side .k{color:var(--muted);font-size:12px;letter-spacing:.5px}
+  .side .v{font-size:24px;font-weight:700;margin-top:4px;word-break:break-all;color:var(--accent)}
+  .side .v.empty{color:var(--muted);font-size:15px;font-weight:400}
+  .meta{margin-top:14px;color:var(--muted);font-size:12px;display:flex;gap:14px;flex-wrap:wrap}
+  .meta a{color:inherit}
+  .list{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+  .row{display:grid;grid-template-columns:110px 1fr 1fr;gap:10px;padding:12px 16px;
+       border-top:1px solid var(--line);align-items:center;cursor:pointer}
+  .row:first-child{border-top:0}
+  .row:hover{background:var(--chip)}
+  .row .d{color:var(--muted);font-size:13px;font-variant-numeric:tabular-nums}
+  .row .a{font-weight:600;word-break:break-all}
+  .row .a.empty{color:var(--muted);font-weight:400}
+  .ocr{padding:0 16px 14px;color:var(--muted);font-size:12px;line-height:1.8;display:none}
+  .ocr.show{display:block}
+  .ocr code{background:var(--chip);padding:1px 5px;border-radius:4px;margin:2px 3px 2px 0;
+            display:inline-block;color:var(--text);font-size:11px}
+  .toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:26px 0 10px}
+  .toolbar h2{margin:0;font-size:16px}
+  input#q{background:var(--card);border:1px solid var(--line);border-radius:9px;
+          padding:7px 11px;color:var(--text);font-size:13px;width:180px;outline:none}
+  input#q:focus{border-color:var(--accent)}
+  .empty-tip{padding:22px 16px;color:var(--muted);font-size:13px;text-align:center}
+  footer{margin-top:32px;color:var(--muted);font-size:12px;line-height:1.9}
+  footer a{color:inherit}
+  .notice{background:var(--card);border:1px solid var(--line);border-radius:12px;
+          padding:14px 16px;font-size:12px;color:var(--muted);line-height:1.8}
+  @media (max-width:480px){
+    .sides{grid-template-columns:1fr}
+    .row{grid-template-columns:1fr 1fr;grid-auto-rows:auto}
+    .row .d{grid-column:1 / -1;font-size:12px}
+  }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>每日金钥匙</h1>
+    <p class="sub">永劫无间 · 端游 / 手游 · 官方推文自动 OCR 归档</p>
+  </header>
+
+  <section id="today" class="today"></section>
+
+  <div class="toolbar">
+    <h2>历史记录</h2>
+    <input id="q" type="search" placeholder="筛选日期，如 2026-10">
+  </div>
+  <div id="list" class="list"></div>
+
+  <footer>
+    <div class="notice">
+      数据来自官方公众号推文的公开内容，本项目只做信息聚合，<strong>不提供代刷、自动领取等功能</strong>。
+      答案以官方页面为准；OCR 偶有误差，发现错误请到 GitHub 提 issue。
+    </div>
+    <p>最后更新：2026-10-23 20:39（北京时间） ·
+       数据索引：<a href="./data/index.json">/data/index.json</a> ·
+       单日：<a href="./data/">/data/YYYY-MM-DD.json</a></p>
+  </footer>
+</main>
+
+<script>
+const DATA = {"updated_at": "2026-10-23T20:39:51+08:00", "today": "2026-10-23", "days": [{"date": "2026-10-22", "pc": "今日更新", "mobile": "速通指南", "updated_at": "2026-10-23T20:39:51+08:00"}], "detail": {"2026-10-22": {"date": "2026-10-22", "pc": {"answer": "今日更新", "confidence": 0.783, "source": "https://mp.weixin.qq.com/s/Y569r0b6t1V8xwP7PBzB7g", "title": "今日待办：出席鸿门宴，宛渠游泳健身，晚上听胡桃讲鬼故事", "published_at": "2026-10-22T11:55:45+08:00", "captured_at": "2026-10-23T20:39:47+08:00", "ocr": ["今日金钥匙", "今日更新", "每日金钥匙在次日下午6点前有效", "使用方式：", "点击公众号底部菜单", "福利中心", "每日金钥匙", "输入金钥匙"]}, "mobile": {"answer": "速通指南", "confidence": 0.7624, "source": "https://mp.weixin.qq.com/s/0l9AuwkHfZy8xwFNFR_LtA", "title": "新版本今日上线 | 赴鸿门宴，换新装、拍大片，长剑版鲨齿正式上线！", "published_at": "2026-10-22T12:48:20+08:00", "captured_at": "2026-10-23T20:39:51+08:00", "ocr": ["今日金钥匙", "速通指南", "每日金钥匙在次日下午6点前有效", "使用方式：", "点击公众号底部菜单", "福利中心", "每日金钥匙", "输入金钥匙"]}, "updated_at": "2026-10-23T20:39:51+08:00"}}};
+const DETAIL = DATA.detail || {};
+const DAYS = DATA.days || [];
+
+const esc = s => String(s == null ? "" : s)
+  .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+
+function weekday(d){
+  const w = ["日","一","二","三","四","五","六"];
+  const t = new Date(d + "T00:00:00+08:00");
+  return isNaN(t) ? "" : "周" + w[t.getDay()];
+}
+
+function renderToday(){
+  const day = DATA.today;
+  const rec = DETAIL[day] || {};
+  const pc = rec.pc || {}, mb = rec.mobile || {};
+  const empty = !(pc.answer || mb.answer);
+  const src = pc.source || mb.source || "";
+  const title = pc.title || mb.title || "";
+  const stamp = (rec.updated_at || "").slice(11,16);
+  document.getElementById("today").innerHTML = `
+    <div class="date"><span>${esc(day)} ${weekday(day)}</span>
+      <span>${empty ? "今日答案尚未更新" : "抓取于 " + esc(stamp) + "（北京时间）"}</span></div>
+    <div class="sides">
+      <div class="side"><div class="k">端游</div>
+        <div class="v ${pc.answer ? "" : "empty"}">${esc(pc.answer || "等待中…")}</div></div>
+      <div class="side"><div class="k">手游</div>
+        <div class="v ${mb.answer ? "" : "empty"}">${esc(mb.answer || "等待中…")}</div></div>
+    </div>
+    ${src ? `<div class="meta"><span>来源：<a href="${esc(src)}" target="_blank" rel="noopener">${esc(title || "官方推文")}</a></span></div>` : ""}
+  `;
+}
+
+function renderList(filter){
+  const box = document.getElementById("list");
+  const rows = DAYS.filter(d => !filter || d.date.includes(filter));
+  if (!rows.length){
+    box.innerHTML = `<div class="empty-tip">${DAYS.length ? "没有匹配的日期" : "还没有历史记录，抓取会在每天自动运行"}</div>`;
+    return;
+  }
+  box.innerHTML = rows.slice(0, 120).map(d => {
+    const rec = DETAIL[d.date] || {};
+    const ocr = []
+      .concat((rec.pc && rec.pc.ocr) || [], (rec.mobile && rec.mobile.ocr) || []);
+    const detail = ocr.length
+      ? `<div class="ocr" data-date="${esc(d.date)}">OCR 原文：${[...new Set(ocr)].map(t => `<code>${esc(t)}</code>`).join("")}</div>`
+      : "";
+    return `<div class="row" data-date="${esc(d.date)}">
+      <span class="d">${esc(d.date)} <span style="opacity:.7">${weekday(d.date)}</span></span>
+      <span class="a ${d.pc ? "" : "empty"}">${esc(d.pc || "—")}</span>
+      <span class="a ${d.mobile ? "" : "empty"}">${esc(d.mobile || "—")}</span>
+    </div>${detail}`;
+  }).join("");
+}
+
+document.getElementById("list").addEventListener("click", e => {
+  const row = e.target.closest(".row");
+  if (!row) return;
+  const el = document.querySelector(`.ocr[data-date="${row.dataset.date}"]`);
+  if (el) el.classList.toggle("show");
+});
+
+document.getElementById("q").addEventListener("input", e => renderList(e.target.value.trim()));
+
+renderToday();
+renderList("");
+</script>
+</body>
+</html>
