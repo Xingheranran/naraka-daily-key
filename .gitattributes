@@ -1,0 +1,4 @@
+# 仓库内统一 LF，避免 Windows 上的 CRLF 弄坏 Actions 里的 shell 脚本
+* text=auto eol=lf
+*.png binary
+*.jpg binary
