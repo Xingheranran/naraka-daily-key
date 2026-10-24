@@ -1,23 +1,25 @@
 {
- "updated_at": "2026-10-24T11:38:28+08:00",
+ "updated_at": "2026-10-24T19:09:24+08:00",
  "current": {
-  "date": "2026-10-23",
-  "valid_until": "2026-10-24T18:00:00+08:00",
-  "updated_at": "2026-10-24T11:38:28+08:00",
-  "pc": {
-   "answer": "大风歌",
-   "verified": true,
-   "verify_note": "已验证（此前已领取）",
-   "verified_at": "2026-10-24T11:38:24+08:00"
-  },
+  "date": "2026-10-24",
+  "valid_until": "2026-10-25T18:00:00+08:00",
+  "updated_at": "2026-10-24T19:09:24+08:00",
   "mobile": {
-   "answer": "击筑奏乐",
-   "verified": true,
-   "verify_note": "已验证（此前已领取）",
-   "verified_at": "2026-10-24T11:38:28+08:00"
+   "answer": "壁纸福利",
+   "verified": null,
+   "verify_note": "待验证",
+   "verified_at": ""
   }
  },
  "days": [
+  {
+   "date": "2026-10-24",
+   "pc": "",
+   "mobile": "壁纸福利",
+   "valid_until": "2026-10-25T18:00:00+08:00",
+   "verified": null,
+   "updated_at": "2026-10-24T19:09:24+08:00"
+  },
   {
    "date": "2026-10-23",
    "pc": "大风歌",
