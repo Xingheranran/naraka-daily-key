@@ -1,0 +1,48 @@
+{
+ "date": "2026-10-23",
+ "pc": {
+  "answer": "大风歌",
+  "confidence": 0.6608,
+  "source": "https://mp.weixin.qq.com/s/W8XX9GkvnvHmU1n49gVssQ",
+  "title": "继承高渐离的“武器”？你将正式成为古乐器【筑 】的传承人！",
+  "published_at": "2026-10-23T20:12:38+08:00",
+  "valid_until": "2026-10-24T18:00:00+08:00",
+  "captured_at": "2026-10-24T11:32:30+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "大风歌",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式：",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ },
+ "updated_at": "2026-10-24T11:32:33+08:00",
+ "mobile": {
+  "answer": "击筑奏乐",
+  "confidence": 0.779,
+  "source": "https://mp.weixin.qq.com/s/pjcDSGnbU1uLquq9GJdE1Q",
+  "title": "继承高渐离的“武器”？你将正式成为古乐器【筑 】的传承人！",
+  "published_at": "2026-10-23T20:38:17+08:00",
+  "valid_until": "2026-10-24T18:00:00+08:00",
+  "captured_at": "2026-10-24T11:32:33+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "击筑奏乐",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式：",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ }
+}
