@@ -22,7 +22,7 @@
    "输入金钥匙"
   ]
  },
- "updated_at": "2026-10-24T11:38:24+08:00",
+ "updated_at": "2026-10-24T11:38:28+08:00",
  "mobile": {
   "answer": "击筑奏乐",
   "confidence": 0.779,
@@ -31,9 +31,9 @@
   "published_at": "2026-10-23T20:38:17+08:00",
   "valid_until": "2026-10-24T18:00:00+08:00",
   "captured_at": "2026-10-24T11:32:33+08:00",
-  "verified": null,
-  "verified_at": "",
-  "verify_note": "待验证",
+  "verified": true,
+  "verified_at": "2026-10-24T11:38:28+08:00",
+  "verify_note": "已验证（此前已领取）",
   "ocr": [
    "今日金钥匙",
    "击筑奏乐",
