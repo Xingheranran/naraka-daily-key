@@ -1,9 +1,15 @@
 {
- "updated_at": "2026-10-24T19:15:03+08:00",
+ "updated_at": "2026-10-25T02:50:09+08:00",
  "current": {
   "date": "2026-10-24",
   "valid_until": "2026-10-25T18:00:00+08:00",
-  "updated_at": "2026-10-24T19:15:03+08:00",
+  "updated_at": "2026-10-25T02:50:09+08:00",
+  "pc": {
+   "answer": "楚人美",
+   "verified": null,
+   "verify_note": "待验证",
+   "verified_at": ""
+  },
   "mobile": {
    "answer": "壁纸福利",
    "verified": true,
@@ -14,11 +20,11 @@
  "days": [
   {
    "date": "2026-10-24",
-   "pc": "",
+   "pc": "楚人美",
    "mobile": "壁纸福利",
    "valid_until": "2026-10-25T18:00:00+08:00",
-   "verified": true,
-   "updated_at": "2026-10-24T19:15:03+08:00"
+   "verified": null,
+   "updated_at": "2026-10-25T02:50:09+08:00"
   },
   {
    "date": "2026-10-23",
