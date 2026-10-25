@@ -1,22 +1,6 @@
 {
  "updated_at": "2026-10-25T03:15:02+08:00",
- "current": {
-  "date": "2026-10-24",
-  "valid_until": "2026-10-25T18:00:00+08:00",
-  "updated_at": "2026-10-25T03:15:02+08:00",
-  "pc": {
-   "answer": "楚人美",
-   "verified": true,
-   "verify_note": "已验证（青龙领取成功）",
-   "verified_at": "2026-10-25T03:15:02+08:00"
-  },
-  "mobile": {
-   "answer": "壁纸福利",
-   "verified": true,
-   "verify_note": "已验证（青龙领取成功）",
-   "verified_at": "2026-10-24T19:15:03+08:00"
-  }
- },
+ "current": null,
  "days": [
   {
    "date": "2026-10-24",
