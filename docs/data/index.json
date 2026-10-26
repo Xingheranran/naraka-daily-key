@@ -1,20 +1,20 @@
 {
- "updated_at": "2026-10-26T16:21:31+08:00",
+ "updated_at": "2026-10-26T17:15:07+08:00",
  "current": {
   "date": "2026-10-25",
   "valid_until": "2026-10-26T18:00:00+08:00",
-  "updated_at": "2026-10-26T16:21:31+08:00",
+  "updated_at": "2026-10-26T17:15:07+08:00",
   "pc": {
    "answer": "连吃带拿",
-   "verified": null,
-   "verify_note": "待验证",
-   "verified_at": ""
+   "verified": true,
+   "verify_note": "已验证（青龙领取成功）",
+   "verified_at": "2026-10-26T17:15:02+08:00"
   },
   "mobile": {
    "answer": "重生系统",
-   "verified": null,
-   "verify_note": "待验证",
-   "verified_at": ""
+   "verified": true,
+   "verify_note": "已验证（青龙领取成功）",
+   "verified_at": "2026-10-26T17:15:07+08:00"
   }
  },
  "days": [
@@ -23,8 +23,8 @@
    "pc": "连吃带拿",
    "mobile": "重生系统",
    "valid_until": "2026-10-26T18:00:00+08:00",
-   "verified": null,
-   "updated_at": "2026-10-26T16:21:31+08:00"
+   "verified": true,
+   "updated_at": "2026-10-26T17:15:07+08:00"
   },
   {
    "date": "2026-10-24",
