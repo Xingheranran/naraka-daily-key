@@ -26,8 +26,8 @@
  "mobile": {
   "answer": "策划面对面",
   "confidence": 0.99,
-  "source": "https://mp.weixin.qq.com/s/givIUJ2waW4I-5WpAuQ1oA",
-  "title": "别笑，你来你也过不了第二关",
+  "source": "https://mp.weixin.qq.com/s/yVv-eBoN92Q-Wn0xjQzvOA",
+  "title": "策划面对面 | 叶修平衡性调整方向、减疗机制后续计划，来看看策划怎么说！",
   "published_at": "2026-10-27T17:33:03+08:00",
   "valid_until": "2026-10-30T18:00:00+08:00",
   "captured_at": "2026-10-27T20:06:28+08:00",
@@ -35,6 +35,17 @@
   "verified_at": "",
   "verify_note": "待验证",
   "note": "人工修正：原 OCR 误取 10-27 文章答案",
-  "updated_at": "2026-10-27T12:30:00+08:00"
+  "updated_at": "2026-10-27T12:32:00+08:00",
+  "ocr": [
+   "今日金钥匙",
+   "策划面对面",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式：",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ],
+  "published": "2026-10-26T19:13:04+08:00"
  }
 }
