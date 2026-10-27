@@ -1,23 +1,31 @@
 {
- "updated_at": "2026-10-26T23:15:34+08:00",
+ "updated_at": "2026-10-27T20:10:03+08:00",
  "current": {
-  "date": "2026-10-26",
-  "valid_until": "2026-10-29T18:00:00+08:00",
-  "updated_at": "2026-10-26T23:15:34+08:00",
-  "pc": {
-   "answer": "咕咕嘎嘎",
+  "date": "2026-10-27",
+  "valid_until": "2026-10-30T18:00:00+08:00",
+  "updated_at": "2026-10-27T20:10:03+08:00",
+  "mobile": {
+   "answer": "通关副本",
    "verified": true,
-   "verify_note": "今日任务已完成",
-   "verified_at": "2026-10-26T23:15:34+08:00"
+   "verify_note": "已验证（青龙领取成功）",
+   "verified_at": "2026-10-27T20:10:03+08:00"
   }
  },
  "days": [
   {
+   "date": "2026-10-27",
+   "pc": "",
+   "mobile": "通关副本",
+   "valid_until": "2026-10-30T18:00:00+08:00",
+   "verified": true,
+   "updated_at": "2026-10-27T20:10:03+08:00"
+  },
+  {
    "date": "2026-10-26",
    "pc": "咕咕嘎嘎",
-   "mobile": "",
+   "mobile": "通关副本",
    "valid_until": "2026-10-29T18:00:00+08:00",
-   "verified": true,
+   "verified": null,
    "updated_at": "2026-10-26T23:15:34+08:00"
   },
   {

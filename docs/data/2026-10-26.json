@@ -1,26 +1,39 @@
 {
- "date": "2026-10-26",
- "pc": {
-  "answer": "咕咕嘎嘎",
-  "confidence": 0.9975,
-  "source": "https://mp.weixin.qq.com/s/0sLgNTFnv_PztxmlulgnQA",
-  "title": "老老实实的人生不如咕咕嘎嘎来的刺激！",
-  "published_at": "2026-10-26T20:51:38+08:00",
-  "valid_until": "2026-10-29T18:00:00+08:00",
-  "captured_at": "2026-10-26T23:15:29+08:00",
-  "verified": true,
-  "verified_at": "2026-10-26T23:15:34+08:00",
-  "verify_note": "今日任务已完成",
-  "ocr": [
-   "今日金钥匙",
-   "咕咕嘎嘎",
-   "每日金钥匙在次日下午6点前有效",
-   "使用方式：",
-   "点击公众号底部菜单",
-   "福利中心",
-   "每日金钥匙",
-   "输入金钥匙"
-  ]
- },
- "updated_at": "2026-10-26T23:15:34+08:00"
+  "date": "2026-10-26",
+  "pc": {
+    "answer": "咕咕嘎嘎",
+    "confidence": 0.9975,
+    "source": "https://mp.weixin.qq.com/s/0sLgNTFnv_PztxmlulgnQA",
+    "title": "老老实实的人生不如咕咕嘎嘎来的刺激！",
+    "published_at": "2026-10-26T20:51:38+08:00",
+    "valid_until": "2026-10-29T18:00:00+08:00",
+    "captured_at": "2026-10-26T23:15:29+08:00",
+    "verified": true,
+    "verified_at": "2026-10-26T23:15:34+08:00",
+    "verify_note": "今日任务已完成",
+    "ocr": [
+      "今日金钥匙",
+      "咕咕嘎嘎",
+      "每日金钥匙在次日下午6点前有效",
+      "使用方式：",
+      "点击公众号底部菜单",
+      "福利中心",
+      "每日金钥匙",
+      "输入金钥匙"
+    ]
+  },
+  "updated_at": "2026-10-26T23:15:34+08:00",
+  "mobile": {
+    "answer": "通关副本",
+    "confidence": 0.99,
+    "source": "https://mp.weixin.qq.com/s/givIUJ2waW4I-5WpAuQ1oA",
+    "title": "别笑，你来你也过不了第二关",
+    "published_at": "2026-10-27T17:33:03+08:00",
+    "valid_until": "2026-10-30T18:00:00+08:00",
+    "captured_at": "2026-10-27T20:06:28+08:00",
+    "verified": null,
+    "verified_at": "",
+    "verify_note": "待验证",
+    "note": "池子里的最新手游答案；10-26 当天官方未单独发手游推文"
+  }
 }
