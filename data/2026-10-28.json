@@ -23,7 +23,7 @@
    "输入金钥匙"
   ]
  },
- "updated_at": "2026-10-29T17:59:39+08:00",
+ "updated_at": "2026-10-29T18:00:04+08:00",
  "mobile": {
   "answer": "谐音梗",
   "confidence": 0.95,
@@ -33,8 +33,8 @@
   "valid_until": "2026-10-29T18:00:00+08:00",
   "claimable_until": "2026-10-31T18:00:00+08:00",
   "captured_at": "2026-10-29T17:40:00+08:00",
-  "verified": true,
-  "verify_note": "已验证（此前已领取）",
-  "verified_at": "2026-10-29T17:59:39+08:00"
+  "verified": false,
+  "verify_note": "验证失败：金钥匙不正确",
+  "verified_at": "2026-10-29T18:00:04+08:00"
  }
 }
