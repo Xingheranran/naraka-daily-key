@@ -9,8 +9,8 @@
     "valid_until": "2026-10-28T18:00:00+08:00",
     "claimable_until": "2026-10-30T18:00:00+08:00",
     "captured_at": "2026-10-29T17:40:00+08:00",
-    "verified": false,
-    "verify_note": "手工补录（补录时已过期）"
+    "verified": null,
+    "verify_note": "手工补录，未验证"
   },
   "mobile": {
     "answer": "通关副本",
