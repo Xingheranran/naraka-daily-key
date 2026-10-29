@@ -3,12 +3,12 @@
  "mobile": {
   "answer": "神秘档案",
   "confidence": 0.9966,
-  "source": "https://mp.weixin.qq.com/s?__biz=Mzg3MDczMjQ5MA==&mid=2247532904&idx=1&sn=557ef33f056e0698ef3654a4d3990f3b",
+  "source": "https://mp.weixin.qq.com/s/jesSlQf6l5ETnpMrCnrzbQ",
   "title": "你也想当胡桃的人偶娃娃吗？",
   "published_at": "2026-10-29T17:40:25+08:00",
   "valid_until": "2026-10-30T18:00:00+08:00",
   "claimable_until": "2026-11-01T18:00:00+08:00",
-  "captured_at": "2026-10-29T19:19:20+08:00",
+  "captured_at": "2026-10-30T03:06:49+08:00",
   "verified": true,
   "verified_at": "2026-10-29T18:02:38+08:00",
   "verify_note": "已验证（青龙领取成功）",
@@ -23,5 +23,28 @@
    "输入金钥匙"
   ]
  },
- "updated_at": "2026-10-29T19:19:20+08:00"
+ "updated_at": "2026-10-30T03:06:52+08:00",
+ "pc": {
+  "answer": "两股叉",
+  "confidence": 0.9967,
+  "source": "https://mp.weixin.qq.com/s/j78i5YvYiuudmmYngGRSug",
+  "title": "拿着叉的不一定是海王！水域专属新武器【两股叉】登场，水下战斗、宛渠地图全面优化调整11月5日同步上线",
+  "published_at": "2026-10-29T22:23:23+08:00",
+  "valid_until": "2026-10-30T18:00:00+08:00",
+  "claimable_until": "2026-11-01T18:00:00+08:00",
+  "captured_at": "2026-10-30T03:06:40+08:00",
+  "verified": true,
+  "verified_at": "2026-10-30T03:06:52+08:00",
+  "verify_note": "今日任务已完成",
+  "ocr": [
+   "今日金钥匙",
+   "两股叉",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式：",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ }
 }
