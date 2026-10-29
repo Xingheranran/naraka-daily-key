@@ -1,5 +1,17 @@
 {
   "date": "2026-10-27",
+  "pc": {
+    "answer": "水域新武器",
+    "confidence": 0.959,
+    "source": "https://mp.weixin.qq.com/s/hArZqrF5PzTdhk3SmM_HyQ",
+    "title": "水域战斗专属新武器究竟是什么？总不能是海水过滤器吧！",
+    "published_at": "2026-10-27T17:31:00+08:00",
+    "valid_until": "2026-10-28T18:00:00+08:00",
+    "claimable_until": "2026-10-30T18:00:00+08:00",
+    "captured_at": "2026-10-29T17:40:00+08:00",
+    "verified": false,
+    "verify_note": "手工补录（补录时已过期）"
+  },
   "mobile": {
     "answer": "通关副本",
     "confidence": 0.99,
