@@ -1,0 +1,27 @@
+{
+ "date": "2026-10-29",
+ "mobile": {
+  "answer": "神秘档案",
+  "confidence": 0.9966,
+  "source": "https://mp.weixin.qq.com/s/jesSlQf6l5ETnpMrCnrzbQ",
+  "title": "你也想当胡桃的人偶娃娃吗？",
+  "published_at": "2026-10-29T17:40:25+08:00",
+  "valid_until": "2026-10-30T18:00:00+08:00",
+  "claimable_until": "2026-11-01T18:00:00+08:00",
+  "captured_at": "2026-10-29T18:00:25+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "神秘档案",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式：",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ },
+ "updated_at": "2026-10-29T18:00:25+08:00"
+}
