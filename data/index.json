@@ -12,8 +12,8 @@
   },
   "mobile": {
    "answer": "谐音梗",
-   "verified": false,
-   "verify_note": "手工补录（补录时已过期）",
+   "verified": null,
+   "verify_note": "手工补录，未验证",
    "verified_at": ""
   }
  },
@@ -23,7 +23,7 @@
    "pc": "大师云集",
    "mobile": "谐音梗",
    "valid_until": "2026-10-29T18:00:00+08:00",
-   "verified": false,
+   "verified": null,
    "updated_at": "2026-10-29T00:45:03+08:00"
   },
   {
@@ -31,7 +31,7 @@
    "pc": "水域新武器",
    "mobile": "通关副本",
    "valid_until": "2026-10-28T18:00:00+08:00",
-   "verified": false,
+   "verified": null,
    "updated_at": "2026-10-27T20:10:03+08:00"
   },
   {
