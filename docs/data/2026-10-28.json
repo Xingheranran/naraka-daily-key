@@ -23,17 +23,18 @@
    "输入金钥匙"
   ]
  },
- "updated_at": "2026-10-30T18:24:35+08:00",
+ "updated_at": "2026-10-30T19:23:20+08:00",
  "mobile": {
   "answer": "谐音梗",
-  "confidence": 0.95,
-  "source": "https://mp.weixin.qq.com/s/0sLgNTFnv_PztxmlulgnQA",
-  "title": "2026年永劫普通话水平测试，开考！",
-  "published_at": "2026-10-28T15:07:00+08:00",
-  "valid_until": "2026-10-29T18:00:00+08:00",
-  "claimable_until": "2026-10-31T18:00:00+08:00",
-  "captured_at": "2026-10-29T17:40:00+08:00",
+  "confidence": null,
+  "source": "",
+  "title": "",
+  "published_at": "",
+  "valid_until": "",
+  "claimable_until": "",
+  "captured_at": "2026-10-30T19:23:20+08:00",
   "verified": false,
-  "verify_note": "手工补录（补录时已过期）"
+  "verify_note": "来源不可考（曾误填为端游文章），答案来自人工记录，未经验证",
+  "verified_at": ""
  }
 }
