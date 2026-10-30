@@ -1,11 +1,17 @@
 {
- "updated_at": "2026-10-30T19:15:07+08:00",
+ "updated_at": "2026-10-30T20:22:44+08:00",
  "current": {
   "date": "2026-10-30",
   "valid_until": "2026-10-31T18:00:00+08:00",
-  "updated_at": "2026-10-30T19:15:07+08:00",
+  "updated_at": "2026-10-30T20:22:44+08:00",
   "pc": {
    "answer": "云庆",
+   "verified": null,
+   "verify_note": "待验证",
+   "verified_at": ""
+  },
+  "mobile": {
+   "answer": "福利中心",
    "verified": null,
    "verify_note": "待验证",
    "verified_at": ""
@@ -15,10 +21,10 @@
   {
    "date": "2026-10-30",
    "pc": "云庆",
-   "mobile": "",
+   "mobile": "福利中心",
    "valid_until": "2026-10-31T18:00:00+08:00",
    "verified": null,
-   "updated_at": "2026-10-30T19:15:07+08:00"
+   "updated_at": "2026-10-30T20:22:44+08:00"
   },
   {
    "date": "2026-10-29",
@@ -34,7 +40,7 @@
    "mobile": "谐音梗",
    "valid_until": "2026-10-29T18:00:00+08:00",
    "verified": false,
-   "updated_at": "2026-10-30T18:24:35+08:00"
+   "updated_at": "2026-10-30T19:23:20+08:00"
   },
   {
    "date": "2026-10-27",
