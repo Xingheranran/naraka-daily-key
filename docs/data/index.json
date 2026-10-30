@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-30T03:06:52+08:00",
+ "updated_at": "2026-10-30T15:14:54+08:00",
  "current": {
   "date": "2026-10-29",
   "valid_until": "2026-10-30T18:00:00+08:00",
-  "updated_at": "2026-10-30T03:06:52+08:00",
+  "updated_at": "2026-10-30T15:14:54+08:00",
   "pc": {
-   "answer": "两股叉",
-   "verified": true,
-   "verify_note": "今日任务已完成",
-   "verified_at": "2026-10-30T03:06:52+08:00"
+   "answer": "神秘档案",
+   "verified": null,
+   "verify_note": "待验证",
+   "verified_at": ""
   },
   "mobile": {
    "answer": "神秘档案",
@@ -20,11 +20,11 @@
  "days": [
   {
    "date": "2026-10-29",
-   "pc": "两股叉",
+   "pc": "神秘档案",
    "mobile": "神秘档案",
    "valid_until": "2026-10-30T18:00:00+08:00",
-   "verified": true,
-   "updated_at": "2026-10-30T03:06:52+08:00"
+   "verified": null,
+   "updated_at": "2026-10-30T15:14:54+08:00"
   },
   {
    "date": "2026-10-28",
