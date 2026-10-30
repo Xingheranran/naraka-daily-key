@@ -1,23 +1,25 @@
 {
- "updated_at": "2026-10-30T18:57:42+08:00",
+ "updated_at": "2026-10-30T19:15:07+08:00",
  "current": {
-  "date": "2026-10-29",
-  "valid_until": "2026-10-30T18:00:00+08:00",
-  "updated_at": "2026-10-30T18:57:42+08:00",
+  "date": "2026-10-30",
+  "valid_until": "2026-10-31T18:00:00+08:00",
+  "updated_at": "2026-10-30T19:15:07+08:00",
   "pc": {
-   "answer": "两股叉",
-   "verified": true,
-   "verify_note": "今日任务已完成",
-   "verified_at": "2026-10-30T15:31:29+08:00"
-  },
-  "mobile": {
-   "answer": "神秘档案",
-   "verified": true,
-   "verify_note": "已验证（青龙领取成功）",
-   "verified_at": "2026-10-29T18:02:38+08:00"
+   "answer": "云庆",
+   "verified": null,
+   "verify_note": "待验证",
+   "verified_at": ""
   }
  },
  "days": [
+  {
+   "date": "2026-10-30",
+   "pc": "云庆",
+   "mobile": "",
+   "valid_until": "2026-10-31T18:00:00+08:00",
+   "verified": null,
+   "updated_at": "2026-10-30T19:15:07+08:00"
+  },
   {
    "date": "2026-10-29",
    "pc": "两股叉",

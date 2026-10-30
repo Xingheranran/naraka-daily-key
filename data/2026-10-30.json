@@ -1,0 +1,27 @@
+{
+ "date": "2026-10-30",
+ "pc": {
+  "answer": "云庆",
+  "confidence": 0.9996,
+  "source": "https://mp.weixin.qq.com/s?__biz=MjM5NzcxODEyMQ==&mid=2247681271&idx=1&sn=6c39a438946c69fb0ffff511fdc48918",
+  "title": "小吃一口，应该没事儿？ | 新英雄云庆CG与实机演示",
+  "published_at": "2026-10-30T18:38:31+08:00",
+  "valid_until": "2026-10-31T18:00:00+08:00",
+  "claimable_until": "2026-11-02T18:00:00+08:00",
+  "captured_at": "2026-10-30T19:15:07+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "云庆",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式：",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ },
+ "updated_at": "2026-10-30T19:15:07+08:00"
+}
