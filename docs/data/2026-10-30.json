@@ -9,9 +9,9 @@
   "valid_until": "2026-10-31T18:00:00+08:00",
   "claimable_until": "2026-11-02T18:00:00+08:00",
   "captured_at": "2026-10-30T19:15:07+08:00",
-  "verified": null,
-  "verified_at": "",
-  "verify_note": "待验证",
+  "verified": true,
+  "verified_at": "2026-10-30T21:40:02+08:00",
+  "verify_note": "已验证（青龙领取成功）",
   "ocr": [
    "今日金钥匙",
    "云庆",
@@ -23,7 +23,7 @@
    "输入金钥匙"
   ]
  },
- "updated_at": "2026-10-30T20:28:04+08:00",
+ "updated_at": "2026-10-30T21:40:09+08:00",
  "mobile": {
   "answer": "云庆",
   "confidence": 0.9996,
@@ -33,9 +33,9 @@
   "valid_until": "2026-10-31T18:00:00+08:00",
   "claimable_until": "2026-11-02T18:00:00+08:00",
   "captured_at": "2026-10-30T20:22:44+08:00",
-  "verified": null,
-  "verified_at": "",
-  "verify_note": "待验证（提取已修正：原误抓菜单项「福利中心」）",
+  "verified": true,
+  "verified_at": "2026-10-30T21:40:09+08:00",
+  "verify_note": "已验证（青龙领取成功）",
   "ocr": [
    "云庆",
    "今日金钥匙",
