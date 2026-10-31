@@ -1,23 +1,31 @@
 {
- "updated_at": "2026-10-31T00:09:16+08:00",
+ "updated_at": "2026-10-31T23:27:53+08:00",
  "current": {
-  "date": "2026-10-30",
-  "valid_until": "2026-10-31T18:00:00+08:00",
-  "updated_at": "2026-10-31T00:09:16+08:00",
+  "date": "2026-10-31",
+  "valid_until": "2026-11-01T18:00:00+08:00",
+  "updated_at": "2026-10-31T23:27:53+08:00",
   "pc": {
-   "answer": "云庆",
-   "verified": true,
-   "verify_note": "已验证（青龙领取成功）",
-   "verified_at": "2026-10-30T21:40:02+08:00"
+   "answer": "单排冠军",
+   "verified": null,
+   "verify_note": "待验证",
+   "verified_at": ""
   },
   "mobile": {
-   "answer": "云庆",
-   "verified": true,
-   "verify_note": "已验证（青龙领取成功）",
-   "verified_at": "2026-10-30T21:40:09+08:00"
+   "answer": "千机单冠",
+   "verified": null,
+   "verify_note": "待验证",
+   "verified_at": ""
   }
  },
  "days": [
+  {
+   "date": "2026-10-31",
+   "pc": "单排冠军",
+   "mobile": "千机单冠",
+   "valid_until": "2026-11-01T18:00:00+08:00",
+   "verified": null,
+   "updated_at": "2026-10-31T23:27:53+08:00"
+  },
   {
    "date": "2026-10-30",
    "pc": "云庆",

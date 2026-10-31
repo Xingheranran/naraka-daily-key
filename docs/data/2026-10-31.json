@@ -1,0 +1,50 @@
+{
+ "date": "2026-10-31",
+ "pc": {
+  "answer": "单排冠军",
+  "confidence": 0.9994,
+  "source": "https://mp.weixin.qq.com/s/yEnJzTVJtLWgLezh66UEUw",
+  "title": "三个月，从路人到冠军。恭喜VN521.Yagami（八神会）拿下秋决单排冠军！",
+  "published_at": "2026-10-31T22:21:01+08:00",
+  "valid_until": "2026-11-01T18:00:00+08:00",
+  "claimable_until": "2026-11-03T18:00:00+08:00",
+  "captured_at": "2026-10-31T23:27:43+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "单排冠军",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式：",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ },
+ "updated_at": "2026-10-31T23:27:53+08:00",
+ "mobile": {
+  "answer": "千机单冠",
+  "confidence": 0.9994,
+  "source": "https://mp.weixin.qq.com/s/EtQ85o2a1YIzW4a7-BX43Q",
+  "title": "醒狮蛰伏，一跃惊雷！恭喜陈序斩获烛龙杯·千机总决赛单排冠军！",
+  "published_at": "2026-10-31T22:40:57+08:00",
+  "valid_until": "2026-11-01T18:00:00+08:00",
+  "claimable_until": "2026-11-03T18:00:00+08:00",
+  "captured_at": "2026-10-31T23:27:53+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "千机单冠",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式：",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ }
+}
