@@ -1,0 +1,50 @@
+{
+ "date": "2026-11-01",
+ "pc": {
+  "answer": "三排冠军",
+  "confidence": 0.9984,
+  "source": "https://mp.weixin.qq.com/s/ML8J2ktwxUGvxBcPbLHYgw",
+  "title": "首冠不是终点，是王朝的起点。恭喜NBPL秋季赛三排冠军XKG！",
+  "published_at": "2026-11-01T22:23:04+08:00",
+  "valid_until": "2026-11-02T18:00:00+08:00",
+  "claimable_until": "2026-11-04T18:00:00+08:00",
+  "captured_at": "2026-11-02T05:20:20+08:00",
+  "verified": true,
+  "verified_at": "2026-11-02T05:20:31+08:00",
+  "verify_note": "今日任务已完成",
+  "ocr": [
+   "今日金钥匙",
+   "三排冠军",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式：",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ },
+ "updated_at": "2026-11-02T05:20:33+08:00",
+ "mobile": {
+  "answer": "千机双冠",
+  "confidence": 0.9995,
+  "source": "https://mp.weixin.qq.com/s/7H71JmGkHYe3edP6ZBP2OQ",
+  "title": "互为盾刃，再摘桂冠！恭喜Zone战队斩获烛龙杯·千机总决赛双排冠军！",
+  "published_at": "2026-11-01T23:15:44+08:00",
+  "valid_until": "2026-11-02T18:00:00+08:00",
+  "claimable_until": "2026-11-04T18:00:00+08:00",
+  "captured_at": "2026-11-02T05:20:28+08:00",
+  "verified": true,
+  "verified_at": "2026-11-02T05:20:33+08:00",
+  "verify_note": "今日任务已完成",
+  "ocr": [
+   "今日金钥匙",
+   "千机双冠",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式：",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ }
+}
