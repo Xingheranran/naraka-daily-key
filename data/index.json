@@ -1,23 +1,25 @@
 {
- "updated_at": "2026-11-03T03:41:37+08:00",
+ "updated_at": "2026-11-04T04:14:31+08:00",
  "current": {
-  "date": "2026-11-02",
-  "valid_until": "2026-11-03T18:00:00+08:00",
-  "updated_at": "2026-11-03T03:41:37+08:00",
-  "pc": {
-   "answer": "SR",
-   "verified": true,
-   "verify_note": "今日任务已完成",
-   "verified_at": "2026-11-03T03:41:35+08:00"
-  },
+  "date": "2026-11-03",
+  "valid_until": "2026-11-04T18:00:00+08:00",
+  "updated_at": "2026-11-04T04:14:31+08:00",
   "mobile": {
-   "answer": "共庆夺冠",
+   "answer": "吞天宝炉",
    "verified": true,
    "verify_note": "今日任务已完成",
-   "verified_at": "2026-11-03T03:41:37+08:00"
+   "verified_at": "2026-11-04T04:14:31+08:00"
   }
  },
  "days": [
+  {
+   "date": "2026-11-03",
+   "pc": "",
+   "mobile": "吞天宝炉",
+   "valid_until": "2026-11-04T18:00:00+08:00",
+   "verified": true,
+   "updated_at": "2026-11-04T04:14:31+08:00"
+  },
   {
    "date": "2026-11-02",
    "pc": "SR",
