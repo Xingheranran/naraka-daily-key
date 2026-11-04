@@ -1,17 +1,25 @@
 {
- "updated_at": "2026-11-04T04:14:31+08:00",
+ "updated_at": "2026-11-04T21:11:33+08:00",
  "current": {
-  "date": "2026-11-03",
-  "valid_until": "2026-11-04T18:00:00+08:00",
-  "updated_at": "2026-11-04T04:14:31+08:00",
+  "date": "2026-11-04",
+  "valid_until": "2026-11-05T18:00:00+08:00",
+  "updated_at": "2026-11-04T21:11:33+08:00",
   "mobile": {
-   "answer": "吞天宝炉",
-   "verified": true,
-   "verify_note": "今日任务已完成",
-   "verified_at": "2026-11-04T04:14:31+08:00"
+   "answer": "萌主归来",
+   "verified": null,
+   "verify_note": "待验证",
+   "verified_at": ""
   }
  },
  "days": [
+  {
+   "date": "2026-11-04",
+   "pc": "",
+   "mobile": "萌主归来",
+   "valid_until": "2026-11-05T18:00:00+08:00",
+   "verified": null,
+   "updated_at": "2026-11-04T21:11:33+08:00"
+  },
   {
    "date": "2026-11-03",
    "pc": "",
