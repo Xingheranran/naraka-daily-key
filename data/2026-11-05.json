@@ -1,0 +1,50 @@
+{
+ "date": "2026-11-05",
+ "pc": {
+  "answer": "今日更新",
+  "confidence": 0.9899,
+  "source": "https://mp.weixin.qq.com/s/IJ6wL5JPXq77pWAHUZS9NQ",
+  "title": "永劫无间现已支持DLSS 5技术，资源加载机制优化、水下战斗2.0同步上线",
+  "published_at": "2026-11-05T12:04:17+08:00",
+  "valid_until": "2026-11-06T18:00:00+08:00",
+  "claimable_until": "2026-11-08T18:00:00+08:00",
+  "captured_at": "2026-11-05T21:26:00+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "今日更新",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ },
+ "updated_at": "2026-11-05T21:26:08+08:00",
+ "mobile": {
+  "answer": "V我50",
+  "confidence": 0.9946,
+  "source": "https://mp.weixin.qq.com/s/52N3XVSRRL452slxsWBafQ",
+  "title": "隐星索限时返场 | 救命！云庆的饕餮把更新内容偷吃了！",
+  "published_at": "2026-11-05T12:08:58+08:00",
+  "valid_until": "2026-11-06T18:00:00+08:00",
+  "claimable_until": "2026-11-08T18:00:00+08:00",
+  "captured_at": "2026-11-05T21:26:08+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "V我50",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式：",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ }
+}
