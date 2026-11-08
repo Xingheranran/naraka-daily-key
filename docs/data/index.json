@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-11-08T21:40:48+08:00",
+ "updated_at": "2026-11-09T05:18:27+08:00",
  "current": {
   "date": "2026-11-08",
   "valid_until": "2026-11-09T18:00:00+08:00",
-  "updated_at": "2026-11-08T21:40:48+08:00",
+  "updated_at": "2026-11-09T05:18:27+08:00",
   "pc": {
    "answer": "银龄杯",
    "verified": null,
-   "verify_note": "待验证",
+   "verify_note": "接口异常，未能验证",
    "verified_at": ""
   },
   "mobile": {
    "answer": "如约而至",
    "verified": null,
-   "verify_note": "待验证",
+   "verify_note": "接口异常，未能验证",
    "verified_at": ""
   }
  },
@@ -24,7 +24,7 @@
    "mobile": "如约而至",
    "valid_until": "2026-11-09T18:00:00+08:00",
    "verified": null,
-   "updated_at": "2026-11-08T21:40:48+08:00"
+   "updated_at": "2026-11-09T05:18:27+08:00"
   },
   {
    "date": "2026-11-07",
