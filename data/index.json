@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-08T13:34:59+08:00",
+ "updated_at": "2026-11-08T13:39:01+08:00",
  "current": {
   "date": "2026-11-07",
   "valid_until": "2026-11-08T18:00:00+08:00",
-  "updated_at": "2026-11-08T13:34:59+08:00",
+  "updated_at": "2026-11-08T13:39:01+08:00",
   "pc": {
    "answer": "武林萌主",
-   "verified": null,
-   "verify_note": "待验证",
-   "verified_at": ""
+   "verified": true,
+   "verify_note": "已验证（青龙领取成功）",
+   "verified_at": "2026-11-08T13:39:01+08:00"
   },
   "mobile": {
    "answer": "云庆攻略",
@@ -23,8 +23,8 @@
    "pc": "武林萌主",
    "mobile": "云庆攻略",
    "valid_until": "2026-11-08T18:00:00+08:00",
-   "verified": null,
-   "updated_at": "2026-11-08T13:34:59+08:00"
+   "verified": true,
+   "updated_at": "2026-11-08T13:39:01+08:00"
   },
   {
    "date": "2026-11-06",

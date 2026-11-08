@@ -23,7 +23,7 @@
    "输入金钥匙"
   ]
  },
- "updated_at": "2026-11-08T13:34:59+08:00",
+ "updated_at": "2026-11-08T13:39:01+08:00",
  "pc": {
   "answer": "武林萌主",
   "confidence": 0.9967,
@@ -33,9 +33,9 @@
   "valid_until": "2026-11-08T18:00:00+08:00",
   "claimable_until": "2026-11-10T18:00:00+08:00",
   "captured_at": "2026-11-08T13:34:59+08:00",
-  "verified": null,
-  "verified_at": "",
-  "verify_note": "待验证",
+  "verified": true,
+  "verified_at": "2026-11-08T13:39:01+08:00",
+  "verify_note": "已验证（青龙领取成功）",
   "ocr": [
    "今日金钥匙",
    "武林萌主",
