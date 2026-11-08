@@ -1,0 +1,50 @@
+{
+ "date": "2026-11-08",
+ "pc": {
+  "answer": "银龄杯",
+  "confidence": 0.9974,
+  "source": "https://mp.weixin.qq.com/s/COlIqYa_WeyA1f-0TJQdxw",
+  "title": "休息三十年，然后回来！玩得开心吗，小娃娃们？",
+  "published_at": "2026-11-08T19:05:57+08:00",
+  "valid_until": "2026-11-09T18:00:00+08:00",
+  "claimable_until": "2026-11-11T18:00:00+08:00",
+  "captured_at": "2026-11-08T21:40:39+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "银龄杯",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ },
+ "updated_at": "2026-11-08T21:40:48+08:00",
+ "mobile": {
+  "answer": "如约而至",
+  "confidence": 0.999,
+  "source": "https://mp.weixin.qq.com/s/TZmwl58_0HmsWUVQc9wKvw",
+  "title": "晚上八点领宝箱！| 休息30年，然后回来！玩得开心吗，小娃娃们？",
+  "published_at": "2026-11-08T19:11:08+08:00",
+  "valid_until": "2026-11-09T18:00:00+08:00",
+  "claimable_until": "2026-11-11T18:00:00+08:00",
+  "captured_at": "2026-11-08T21:40:48+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "如约而至",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式：",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ }
+}

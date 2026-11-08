@@ -1,30 +1,38 @@
 {
- "updated_at": "2026-11-08T13:39:01+08:00",
+ "updated_at": "2026-11-08T21:40:48+08:00",
  "current": {
-  "date": "2026-11-07",
-  "valid_until": "2026-11-08T18:00:00+08:00",
-  "updated_at": "2026-11-08T13:39:01+08:00",
+  "date": "2026-11-08",
+  "valid_until": "2026-11-09T18:00:00+08:00",
+  "updated_at": "2026-11-08T21:40:48+08:00",
   "pc": {
-   "answer": "武林萌主",
-   "verified": true,
-   "verify_note": "已验证（青龙领取成功）",
-   "verified_at": "2026-11-08T13:39:01+08:00"
+   "answer": "银龄杯",
+   "verified": null,
+   "verify_note": "待验证",
+   "verified_at": ""
   },
   "mobile": {
-   "answer": "云庆攻略",
-   "verified": true,
-   "verify_note": "今日任务已完成",
-   "verified_at": "2026-11-07T14:30:48+08:00"
+   "answer": "如约而至",
+   "verified": null,
+   "verify_note": "待验证",
+   "verified_at": ""
   }
  },
  "days": [
+  {
+   "date": "2026-11-08",
+   "pc": "银龄杯",
+   "mobile": "如约而至",
+   "valid_until": "2026-11-09T18:00:00+08:00",
+   "verified": null,
+   "updated_at": "2026-11-08T21:40:48+08:00"
+  },
   {
    "date": "2026-11-07",
    "pc": "武林萌主",
    "mobile": "云庆攻略",
    "valid_until": "2026-11-08T18:00:00+08:00",
-   "verified": true,
-   "updated_at": "2026-11-08T13:39:01+08:00"
+   "verified": false,
+   "updated_at": "2026-11-08T21:40:07+08:00"
   },
   {
    "date": "2026-11-06",
