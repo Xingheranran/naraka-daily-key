@@ -23,7 +23,7 @@
    "输入金钥匙"
   ]
  },
- "updated_at": "2026-11-09T17:40:02+08:00",
+ "updated_at": "2026-11-09T17:40:07+08:00",
  "mobile": {
   "answer": "如约而至",
   "confidence": 0.999,
@@ -33,9 +33,9 @@
   "valid_until": "2026-11-09T18:00:00+08:00",
   "claimable_until": "2026-11-11T18:00:00+08:00",
   "captured_at": "2026-11-08T21:40:48+08:00",
-  "verified": null,
-  "verified_at": "",
-  "verify_note": "接口异常，未能验证",
+  "verified": true,
+  "verified_at": "2026-11-09T17:40:07+08:00",
+  "verify_note": "已验证（青龙领取成功）",
   "ocr": [
    "今日金钥匙",
    "如约而至",
