@@ -1,20 +1,20 @@
 {
- "updated_at": "2026-11-09T21:40:47+08:00",
+ "updated_at": "2026-11-10T01:40:08+08:00",
  "current": {
   "date": "2026-11-09",
   "valid_until": "2026-11-10T18:00:00+08:00",
-  "updated_at": "2026-11-09T21:40:47+08:00",
+  "updated_at": "2026-11-10T01:40:08+08:00",
   "pc": {
    "answer": "必吃榜",
-   "verified": null,
-   "verify_note": "待验证",
-   "verified_at": ""
+   "verified": true,
+   "verify_note": "已验证（青龙领取成功）",
+   "verified_at": "2026-11-10T01:40:02+08:00"
   },
   "mobile": {
    "answer": "寂雪断昼",
-   "verified": null,
-   "verify_note": "待验证",
-   "verified_at": ""
+   "verified": true,
+   "verify_note": "已验证（青龙领取成功）",
+   "verified_at": "2026-11-10T01:40:08+08:00"
   }
  },
  "days": [
@@ -23,8 +23,8 @@
    "pc": "必吃榜",
    "mobile": "寂雪断昼",
    "valid_until": "2026-11-10T18:00:00+08:00",
-   "verified": null,
-   "updated_at": "2026-11-09T21:40:47+08:00"
+   "verified": true,
+   "updated_at": "2026-11-10T01:40:08+08:00"
   },
   {
    "date": "2026-11-08",
