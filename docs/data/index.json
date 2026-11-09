@@ -1,30 +1,38 @@
 {
- "updated_at": "2026-11-09T17:40:07+08:00",
+ "updated_at": "2026-11-09T21:40:47+08:00",
  "current": {
-  "date": "2026-11-08",
-  "valid_until": "2026-11-09T18:00:00+08:00",
-  "updated_at": "2026-11-09T17:40:07+08:00",
+  "date": "2026-11-09",
+  "valid_until": "2026-11-10T18:00:00+08:00",
+  "updated_at": "2026-11-09T21:40:47+08:00",
   "pc": {
-   "answer": "银龄杯",
-   "verified": true,
-   "verify_note": "已验证（青龙领取成功）",
-   "verified_at": "2026-11-09T17:40:02+08:00"
+   "answer": "必吃榜",
+   "verified": null,
+   "verify_note": "待验证",
+   "verified_at": ""
   },
   "mobile": {
-   "answer": "如约而至",
-   "verified": true,
-   "verify_note": "已验证（青龙领取成功）",
-   "verified_at": "2026-11-09T17:40:07+08:00"
+   "answer": "寂雪断昼",
+   "verified": null,
+   "verify_note": "待验证",
+   "verified_at": ""
   }
  },
  "days": [
+  {
+   "date": "2026-11-09",
+   "pc": "必吃榜",
+   "mobile": "寂雪断昼",
+   "valid_until": "2026-11-10T18:00:00+08:00",
+   "verified": null,
+   "updated_at": "2026-11-09T21:40:47+08:00"
+  },
   {
    "date": "2026-11-08",
    "pc": "银龄杯",
    "mobile": "如约而至",
    "valid_until": "2026-11-09T18:00:00+08:00",
-   "verified": true,
-   "updated_at": "2026-11-09T17:40:07+08:00"
+   "verified": false,
+   "updated_at": "2026-11-09T21:40:08+08:00"
   },
   {
    "date": "2026-11-07",

@@ -1,0 +1,50 @@
+{
+ "date": "2026-11-09",
+ "pc": {
+  "answer": "必吃榜",
+  "confidence": 0.9869,
+  "source": "https://mp.weixin.qq.com/s/CgEN5N0qERclHlaknrTtCQ",
+  "title": "我画地为牢啊，清寒！",
+  "published_at": "2026-11-09T19:44:57+08:00",
+  "valid_until": "2026-11-10T18:00:00+08:00",
+  "claimable_until": "2026-11-12T18:00:00+08:00",
+  "captured_at": "2026-11-09T21:40:39+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "必吃榜",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ },
+ "updated_at": "2026-11-09T21:40:47+08:00",
+ "mobile": {
+  "answer": "寂雪断昼",
+  "confidence": 0.9633,
+  "source": "https://mp.weixin.qq.com/s/Xfn2166ZaLpsvVfTB7Ncsw",
+  "title": "宝箱福利第五弹 | 我画地为牢啊，清寒！",
+  "published_at": "2026-11-09T20:00:56+08:00",
+  "valid_until": "2026-11-10T18:00:00+08:00",
+  "claimable_until": "2026-11-12T18:00:00+08:00",
+  "captured_at": "2026-11-09T21:40:47+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "寂雪断昼",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式：",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ }
+}
