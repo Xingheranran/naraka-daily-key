@@ -23,7 +23,7 @@
    "输入金钥匙"
   ]
  },
- "updated_at": "2026-11-13T05:40:02+08:00",
+ "updated_at": "2026-11-13T05:40:08+08:00",
  "mobile": {
   "answer": "永劫同心",
   "confidence": 0.9956,
@@ -33,9 +33,9 @@
   "valid_until": "2026-11-13T18:00:00+08:00",
   "claimable_until": "2026-11-15T18:00:00+08:00",
   "captured_at": "2026-11-13T01:41:36+08:00",
-  "verified": null,
-  "verified_at": "",
-  "verify_note": "待验证",
+  "verified": true,
+  "verified_at": "2026-11-13T05:40:08+08:00",
+  "verify_note": "已验证（青龙领取成功）",
   "ocr": [
    "今日金钥匙",
    "永劫同心",
