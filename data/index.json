@@ -1,17 +1,31 @@
 {
- "updated_at": "2026-11-12T16:39:41+08:00",
+ "updated_at": "2026-11-13T01:41:36+08:00",
  "current": {
-  "date": "2026-11-10",
-  "valid_until": "2026-11-11T18:00:00+08:00",
-  "updated_at": "2026-11-12T16:39:41+08:00",
+  "date": "2026-11-12",
+  "valid_until": "2026-11-13T18:00:00+08:00",
+  "updated_at": "2026-11-13T01:41:36+08:00",
+  "pc": {
+   "answer": "闪耀舞台",
+   "verified": null,
+   "verify_note": "待验证",
+   "verified_at": ""
+  },
   "mobile": {
-   "answer": "灵宠系统",
-   "verified": false,
-   "verify_note": "接口异常，未能验证",
-   "verified_at": "2026-11-11T21:40:04+08:00"
+   "answer": "永劫同心",
+   "verified": null,
+   "verify_note": "待验证",
+   "verified_at": ""
   }
  },
  "days": [
+  {
+   "date": "2026-11-12",
+   "pc": "闪耀舞台",
+   "mobile": "永劫同心",
+   "valid_until": "2026-11-13T18:00:00+08:00",
+   "verified": null,
+   "updated_at": "2026-11-13T01:41:36+08:00"
+  },
   {
    "date": "2026-11-10",
    "pc": "",
