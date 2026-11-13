@@ -1,20 +1,20 @@
 {
- "updated_at": "2026-11-13T21:20:03+08:00",
+ "updated_at": "2026-11-14T04:36:09+08:00",
  "current": {
   "date": "2026-11-13",
   "valid_until": "2026-11-14T18:00:00+08:00",
-  "updated_at": "2026-11-13T21:20:03+08:00",
+  "updated_at": "2026-11-14T04:36:09+08:00",
   "pc": {
    "answer": "南极服",
-   "verified": null,
-   "verify_note": "待验证",
-   "verified_at": ""
+   "verified": true,
+   "verify_note": "今日任务已完成",
+   "verified_at": "2026-11-14T04:36:09+08:00"
   },
   "mobile": {
    "answer": "薄肌理论",
-   "verified": null,
-   "verify_note": "待验证",
-   "verified_at": ""
+   "verified": true,
+   "verify_note": "已验证（青龙领取成功）",
+   "verified_at": "2026-11-13T21:40:15+08:00"
   }
  },
  "days": [
@@ -23,8 +23,8 @@
    "pc": "南极服",
    "mobile": "薄肌理论",
    "valid_until": "2026-11-14T18:00:00+08:00",
-   "verified": null,
-   "updated_at": "2026-11-13T21:20:03+08:00"
+   "verified": true,
+   "updated_at": "2026-11-14T04:36:09+08:00"
   },
   {
    "date": "2026-11-12",
