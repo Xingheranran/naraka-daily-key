@@ -1,23 +1,25 @@
 {
- "updated_at": "2026-11-13T05:40:08+08:00",
+ "updated_at": "2026-11-13T20:32:27+08:00",
  "current": {
-  "date": "2026-11-12",
-  "valid_until": "2026-11-13T18:00:00+08:00",
-  "updated_at": "2026-11-13T05:40:08+08:00",
-  "pc": {
-   "answer": "闪耀舞台",
-   "verified": true,
-   "verify_note": "已验证（青龙领取成功）",
-   "verified_at": "2026-11-13T05:40:02+08:00"
-  },
+  "date": "2026-11-13",
+  "valid_until": "2026-11-14T18:00:00+08:00",
+  "updated_at": "2026-11-13T20:32:27+08:00",
   "mobile": {
-   "answer": "永劫同心",
-   "verified": true,
-   "verify_note": "已验证（青龙领取成功）",
-   "verified_at": "2026-11-13T05:40:08+08:00"
+   "answer": "薄肌理论",
+   "verified": null,
+   "verify_note": "待验证",
+   "verified_at": ""
   }
  },
  "days": [
+  {
+   "date": "2026-11-13",
+   "pc": "",
+   "mobile": "薄肌理论",
+   "valid_until": "2026-11-14T18:00:00+08:00",
+   "verified": null,
+   "updated_at": "2026-11-13T20:32:27+08:00"
+  },
   {
    "date": "2026-11-12",
    "pc": "闪耀舞台",
