@@ -23,7 +23,7 @@
    "输入金钥匙"
   ]
  },
- "updated_at": "2026-11-15T22:42:28+08:00",
+ "updated_at": "2026-11-15T22:42:33+08:00",
  "mobile": {
   "answer": "神图有了",
   "confidence": 0.9998,
@@ -33,9 +33,9 @@
   "valid_until": "2026-11-16T18:00:00+08:00",
   "claimable_until": "2026-11-18T18:00:00+08:00",
   "captured_at": "2026-11-15T22:40:51+08:00",
-  "verified": null,
-  "verified_at": "",
-  "verify_note": "待验证",
+  "verified": true,
+  "verified_at": "2026-11-15T22:42:33+08:00",
+  "verify_note": "已验证（青龙领取成功）",
   "ocr": [
    "今日金钥匙",
    "神图有了",
