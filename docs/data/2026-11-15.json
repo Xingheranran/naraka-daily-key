@@ -1,0 +1,50 @@
+{
+ "date": "2026-11-15",
+ "pc": {
+  "answer": "大心脏",
+  "confidence": 0.9475,
+  "source": "https://mp.weixin.qq.com/s/_jF4nWTaTjf0lH-dujjW-g",
+  "title": "永劫无间玩家体检异常项：心脏过大",
+  "published_at": "2026-11-15T16:27:47+08:00",
+  "valid_until": "2026-11-16T18:00:00+08:00",
+  "claimable_until": "2026-11-18T18:00:00+08:00",
+  "captured_at": "2026-11-15T22:40:43+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "大心脏",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ },
+ "updated_at": "2026-11-15T22:40:51+08:00",
+ "mobile": {
+  "answer": "神图有了",
+  "confidence": 0.9998,
+  "source": "https://mp.weixin.qq.com/s/V3FYoSI_pan2qBK8cGfb9g",
+  "title": "尼想纳出什么样的人生？",
+  "published_at": "2026-11-15T16:00:00+08:00",
+  "valid_until": "2026-11-16T18:00:00+08:00",
+  "claimable_until": "2026-11-18T18:00:00+08:00",
+  "captured_at": "2026-11-15T22:40:51+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "神图有了",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式：",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ }
+}
