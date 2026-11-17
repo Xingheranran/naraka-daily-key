@@ -1,23 +1,25 @@
 {
- "updated_at": "2026-11-15T22:42:33+08:00",
+ "updated_at": "2026-11-17T13:48:57+08:00",
  "current": {
-  "date": "2026-11-15",
-  "valid_until": "2026-11-16T18:00:00+08:00",
-  "updated_at": "2026-11-15T22:42:33+08:00",
-  "pc": {
-   "answer": "大心脏",
-   "verified": true,
-   "verify_note": "已验证（青龙领取成功）",
-   "verified_at": "2026-11-15T22:42:28+08:00"
-  },
+  "date": "2026-11-16",
+  "valid_until": "2026-11-17T18:00:00+08:00",
+  "updated_at": "2026-11-17T13:48:57+08:00",
   "mobile": {
-   "answer": "神图有了",
-   "verified": true,
-   "verify_note": "已验证（青龙领取成功）",
-   "verified_at": "2026-11-15T22:42:33+08:00"
+   "answer": "保持富态",
+   "verified": null,
+   "verify_note": "待验证",
+   "verified_at": ""
   }
  },
  "days": [
+  {
+   "date": "2026-11-16",
+   "pc": "",
+   "mobile": "保持富态",
+   "valid_until": "2026-11-17T18:00:00+08:00",
+   "verified": null,
+   "updated_at": "2026-11-17T13:48:57+08:00"
+  },
   {
    "date": "2026-11-15",
    "pc": "大心脏",
