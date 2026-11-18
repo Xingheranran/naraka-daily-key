@@ -1,0 +1,52 @@
+{
+ "date": "2026-11-18",
+ "pc": {
+  "answer": "阶下囚",
+  "confidence": 0.9003,
+  "source": "https://mp.weixin.qq.com/s/oA2sTzm-yyTY6-xzN4pB2A",
+  "title": "玉玲珑、无尘全新外观限时上架，螺舟新玩法同步上线",
+  "published_at": "2026-11-18T19:41:52+08:00",
+  "valid_until": "2026-11-19T18:00:00+08:00",
+  "claimable_until": "2026-11-21T18:00:00+08:00",
+  "captured_at": "2026-11-19T00:17:10+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "阶下囚",
+   "每日金钥匙在次日下午6点前有效",
+   "雪龙2",
+   "使用方式",
+   "LONG2",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ },
+ "updated_at": "2026-11-19T00:17:18+08:00",
+ "mobile": {
+  "answer": "狱岛迷踪",
+  "confidence": 0.9973,
+  "source": "https://mp.weixin.qq.com/s/DEcPg39w9JRshwxBBZMcHg",
+  "title": "玲珑玉玲珑，你被捕了！| 玉玲珑、无尘全新外观限时上架",
+  "published_at": "2026-11-18T19:49:15+08:00",
+  "valid_until": "2026-11-19T18:00:00+08:00",
+  "claimable_until": "2026-11-21T18:00:00+08:00",
+  "captured_at": "2026-11-19T00:17:18+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "狱岛迷踪",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式：",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ }
+}

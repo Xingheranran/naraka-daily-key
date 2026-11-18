@@ -1,17 +1,31 @@
 {
- "updated_at": "2026-11-17T14:06:38+08:00",
+ "updated_at": "2026-11-19T00:17:18+08:00",
  "current": {
-  "date": "2026-11-16",
-  "valid_until": "2026-11-17T18:00:00+08:00",
-  "updated_at": "2026-11-17T14:06:38+08:00",
+  "date": "2026-11-18",
+  "valid_until": "2026-11-19T18:00:00+08:00",
+  "updated_at": "2026-11-19T00:17:18+08:00",
+  "pc": {
+   "answer": "阶下囚",
+   "verified": null,
+   "verify_note": "待验证",
+   "verified_at": ""
+  },
   "mobile": {
-   "answer": "保持富态",
-   "verified": true,
-   "verify_note": "已验证（青龙领取成功）",
-   "verified_at": "2026-11-17T14:06:38+08:00"
+   "answer": "狱岛迷踪",
+   "verified": null,
+   "verify_note": "待验证",
+   "verified_at": ""
   }
  },
  "days": [
+  {
+   "date": "2026-11-18",
+   "pc": "阶下囚",
+   "mobile": "狱岛迷踪",
+   "valid_until": "2026-11-19T18:00:00+08:00",
+   "verified": null,
+   "updated_at": "2026-11-19T00:17:18+08:00"
+  },
   {
    "date": "2026-11-16",
    "pc": "",
