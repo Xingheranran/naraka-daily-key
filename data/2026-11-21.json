@@ -1,0 +1,52 @@
+{
+ "date": "2026-11-21",
+ "pc": {
+  "answer": "最南玩家",
+  "confidence": 0.9971,
+  "source": "https://mp.weixin.qq.com/s/j8EkFXRpxQnthEJlDysoYQ",
+  "title": "南极第一妖刀姬，已严肃测评雪龙2号",
+  "published_at": "2026-11-21T17:21:43+08:00",
+  "valid_until": "2026-11-22T18:00:00+08:00",
+  "claimable_until": "2026-11-24T18:00:00+08:00",
+  "captured_at": "2026-11-21T21:42:08+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "最南玩家",
+   "每日金钥匙在次日下午6点前有效",
+   "雪龙2",
+   "使用方式",
+   "LONG2",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ },
+ "updated_at": "2026-11-21T21:42:18+08:00",
+ "mobile": {
+  "answer": "七宗罪",
+  "confidence": 0.9992,
+  "source": "https://mp.weixin.qq.com/s/eaeyHKhPorm5Bvb0N1bbJQ",
+  "title": "永劫玩家的七宗罪，你犯了几条？",
+  "published_at": "2026-11-21T16:00:00+08:00",
+  "valid_until": "2026-11-22T18:00:00+08:00",
+  "claimable_until": "2026-11-24T18:00:00+08:00",
+  "captured_at": "2026-11-21T21:42:18+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "七宗罪",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式：",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ }
+}
