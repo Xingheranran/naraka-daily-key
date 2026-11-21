@@ -9,9 +9,9 @@
   "valid_until": "2026-11-22T18:00:00+08:00",
   "claimable_until": "2026-11-24T18:00:00+08:00",
   "captured_at": "2026-11-21T21:42:08+08:00",
-  "verified": null,
-  "verified_at": "",
-  "verify_note": "待验证",
+  "verified": true,
+  "verified_at": "2026-11-22T01:40:03+08:00",
+  "verify_note": "已验证（青龙领取成功）",
   "ocr": [
    "今日金钥匙",
    "最南玩家",
@@ -25,7 +25,7 @@
    "输入金钥匙"
   ]
  },
- "updated_at": "2026-11-21T21:42:18+08:00",
+ "updated_at": "2026-11-22T01:40:03+08:00",
  "mobile": {
   "answer": "七宗罪",
   "confidence": 0.9992,
