@@ -1,0 +1,50 @@
+{
+ "date": "2026-11-22",
+ "pc": {
+  "answer": "壁纸福利",
+  "confidence": 0.9865,
+  "source": "https://mp.weixin.qq.com/s/IA1WmU5OiKgeFy5VbkFmsA",
+  "title": "灾难降临，你的电脑壁纸将来到现实拯救世界！",
+  "published_at": "2026-11-22T19:42:27+08:00",
+  "valid_until": "2026-11-23T18:00:00+08:00",
+  "claimable_until": "2026-11-25T18:00:00+08:00",
+  "captured_at": "2026-11-23T13:17:50+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "壁纸福利",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ },
+ "updated_at": "2026-11-23T13:17:59+08:00",
+ "mobile": {
+  "answer": "壁纸福利",
+  "confidence": 0.9935,
+  "source": "https://mp.weixin.qq.com/s/1VGRdFIXlhwwT8EbJIDcOw",
+  "title": "壁纸福利 | 尼要的壁纸全纳走。",
+  "published_at": "2026-11-22T20:00:59+08:00",
+  "valid_until": "2026-11-23T18:00:00+08:00",
+  "claimable_until": "2026-11-25T18:00:00+08:00",
+  "captured_at": "2026-11-23T13:17:59+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "壁纸福利",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式：",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ }
+}
