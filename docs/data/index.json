@@ -1,16 +1,6 @@
 {
  "updated_at": "2026-11-26T17:51:38+08:00",
- "current": {
-  "date": "2026-11-23",
-  "valid_until": "2026-11-24T18:00:00+08:00",
-  "updated_at": "2026-11-26T17:51:38+08:00",
-  "mobile": {
-   "answer": "企鹅家族",
-   "verified": null,
-   "verify_note": "接口异常，未能验证",
-   "verified_at": ""
-  }
- },
+ "current": null,
  "days": [
   {
    "date": "2026-11-23",
