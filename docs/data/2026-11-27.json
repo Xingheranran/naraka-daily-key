@@ -1,0 +1,52 @@
+{
+ "date": "2026-11-27",
+ "pc": {
+  "answer": "征神之路",
+  "confidence": 0.9995,
+  "source": "https://mp.weixin.qq.com/s/5ECUG9Cgg27WTypHTAMAsw",
+  "title": "拔刀，刹那无明斩！ | 武田信忠觉醒新招式参战征神，八大全新法宝同步上线",
+  "published_at": "2026-11-27T20:01:52+08:00",
+  "valid_until": "2026-11-28T18:00:00+08:00",
+  "claimable_until": "2026-11-30T18:00:00+08:00",
+  "captured_at": "2026-11-27T21:40:41+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "征神之路",
+   "每日金钥匙在次日下午6点前有效",
+   "雪龙2",
+   "使用方式",
+   "LONG2",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ },
+ "updated_at": "2026-11-27T21:40:49+08:00",
+ "mobile": {
+  "answer": "救世之道",
+  "confidence": 0.9995,
+  "source": "https://mp.weixin.qq.com/s/Y8i_7135PKTwa7TBEn32LQ",
+  "title": "妈 妈 再 打 我 一 次",
+  "published_at": "2026-11-27T18:54:33+08:00",
+  "valid_until": "2026-11-28T18:00:00+08:00",
+  "claimable_until": "2026-11-30T18:00:00+08:00",
+  "captured_at": "2026-11-27T21:40:49+08:00",
+  "verified": null,
+  "verified_at": "",
+  "verify_note": "待验证",
+  "ocr": [
+   "今日金钥匙",
+   "救世之道",
+   "每日金钥匙在次日下午6点前有效",
+   "使用方式：",
+   "点击公众号底部菜单",
+   "福利中心",
+   "每日金钥匙",
+   "输入金钥匙"
+  ]
+ }
+}
