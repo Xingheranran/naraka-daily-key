@@ -1,20 +1,20 @@
 {
- "updated_at": "2026-11-27T21:40:49+08:00",
+ "updated_at": "2026-11-28T01:40:09+08:00",
  "current": {
   "date": "2026-11-27",
   "valid_until": "2026-11-28T18:00:00+08:00",
-  "updated_at": "2026-11-27T21:40:49+08:00",
+  "updated_at": "2026-11-28T01:40:09+08:00",
   "pc": {
    "answer": "征神之路",
-   "verified": null,
-   "verify_note": "待验证",
-   "verified_at": ""
+   "verified": true,
+   "verify_note": "已验证（青龙领取成功）",
+   "verified_at": "2026-11-28T01:40:03+08:00"
   },
   "mobile": {
    "answer": "救世之道",
-   "verified": null,
-   "verify_note": "待验证",
-   "verified_at": ""
+   "verified": true,
+   "verify_note": "已验证（青龙领取成功）",
+   "verified_at": "2026-11-28T01:40:09+08:00"
   }
  },
  "days": [
@@ -23,8 +23,8 @@
    "pc": "征神之路",
    "mobile": "救世之道",
    "valid_until": "2026-11-28T18:00:00+08:00",
-   "verified": null,
-   "updated_at": "2026-11-27T21:40:49+08:00"
+   "verified": true,
+   "updated_at": "2026-11-28T01:40:09+08:00"
   },
   {
    "date": "2026-11-26",
